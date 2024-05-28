@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, boas vindas ao meu perfil!☀️
 
-<!--
-**MatRibeiro1/MatRibeiro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer, meu nome é Matheus Otho Ribeiro.
 
-Here are some ideas to get you started:
+- Sou um aluno do [Alura](https://alura.com.br)
+- Estou aprender a linguagem JavaScript
+- Utilizo esse espaço para me organizar e compartilhar os meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Entre em contato comigo 📞
+ 00001114846065sp@al.educacao.sp.gov.br
+ 
+ 9 9999-9999
+ 
+ ![](https://tenor.com/bWmOR.gif)
